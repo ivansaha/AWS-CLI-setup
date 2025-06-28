@@ -1,0 +1,1 @@
+This repo will provide the steps to install AWS cli in different OS 
